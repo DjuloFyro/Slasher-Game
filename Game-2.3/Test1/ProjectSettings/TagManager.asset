@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ennemies
+  - Balls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Map
+  - Ennemies
+  - Balls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 292734207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Balls
+    uniqueID: 2390489615
+    locked: 0
+  - name: Ennemies
+    uniqueID: 382733333
+    locked: 0
